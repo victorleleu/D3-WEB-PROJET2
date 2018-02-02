@@ -9,7 +9,7 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 .clearfix:after { clear: both; }
 
 body {
-    font-family: font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', cursive;
     color: #fff;
     background: #FFE04C;
 }
